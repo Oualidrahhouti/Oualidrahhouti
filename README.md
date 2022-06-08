@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/oualid rahhouti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oualid rahhouti" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/oualid-rahhouti-b9522a162" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oualid-rahhouti-b9522a162" height="30" width="40" /></a>
 <a href="https://fb.com/oualidrahhouti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="oualidrahhouti" height="30" width="40" /></a>
 <a href="https://instagram.com/oualidrahhouti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oualidrahhouti" height="30" width="40" /></a>
 <a href="https://medium.com/@rahhoutioualid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rahhoutioualid" height="30" width="40" /></a>
