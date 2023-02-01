@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm RAHHOUTI Oualid</h1>
 <h3 align="center">A passionate web developer from Morocco</h3>
 
-- 🔭 I’m currently working on **A University Time Management Web Application**
+- 🔭 I’m currently working on **University Time Management Web Application**
 
 - 🌱 I’m currently learning **SpringBoot**
 
